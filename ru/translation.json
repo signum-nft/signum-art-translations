@@ -532,5 +532,8 @@
   "youMustEnterTitle": "Вы должны ввести название",
   "youMustMakeAnOfferOf": "Вы должны сделать предложение не менее",
   "myFeedback": "Мой отзыв",
-  "never": "Никогда"
+  "never": "Никогда",
+  "notEnoughFunds": "На вашем счету недостаточно доступных средств",
+  "moreFromThisCollection": "Другие NFT из этой коллекции",
+  "moreFromThisArtist": "Больше NFT от этого исполнителя"
 }

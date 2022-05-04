@@ -532,5 +532,8 @@
   "yourProfileIsVerified": "Ваш профіль підтверджено",
   "youtube": "Youtube",
   "myFeedback": "Мій відгук",
-  "never": "Ніколи"
+  "never": "Ніколи",
+  "notEnoughFunds": "На вашому рахунку недостатньо коштів",
+  "moreFromThisCollection": "Більше NFT з цієї колекції",
+  "moreFromThisArtist": "Більше NFT від цього виконавця"
 }

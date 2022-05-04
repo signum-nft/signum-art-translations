@@ -532,5 +532,8 @@
   "yourProfileIsVerified": "โปรไฟล์ของคุณได้รับการยืนยัน",
   "youtube": "Youtube",
   "myFeedback": "คำติชมของฉัน",
-  "never": "ไม่เคย"
+  "never": "ไม่เคย",
+  "notEnoughFunds": "บัญชีของคุณมีเงินไม่เพียงพอ",
+  "moreFromThisCollection": "NFT เพิ่มเติมจากคอลเล็กชันนี้",
+  "moreFromThisArtist": "NFT เพิ่มเติมจากศิลปินคนนี้"
 }

@@ -532,5 +532,8 @@
   "yourProfileIsVerified": "Je profiel is geverifieerd",
   "youtube": "Youtube",
   "myFeedback": "Mijn feedback",
-  "never": "Nooit"
+  "never": "Nooit",
+  "notEnoughFunds": "Er is onvoldoende saldo beschikbaar op uw account",
+  "moreFromThisCollection": "Meer NFT's uit deze collectie",
+  "moreFromThisArtist": "Meer NFT's van deze artiest"
 }

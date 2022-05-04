@@ -532,5 +532,8 @@
   "youMustEnterTitle": "Debes ingresar el titulo",
   "youMustMakeAnOfferOf": "Debe hacer una oferta de al menos",
   "myFeedback": "Feedback",
-  "never": "Nunca"
+  "never": "Nunca",
+  "notEnoughFunds": "Su cuenta no tiene suficientes fondos disponibles",
+  "moreFromThisCollection": "Más NFTs de esta colección",
+  "moreFromThisArtist": "Más NFTs de este artista"
 }
