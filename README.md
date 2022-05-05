@@ -24,6 +24,7 @@ Discover the available languages you can make contributions to!
 
 > `code` -> language name
 
-The folders will be named by its ``Language code``
+The folders will be named by its ``Language code``.
+If you are going to make contributions to a certain language, make sure to make changes in the proper folder/file
 
 ### Thank you!
