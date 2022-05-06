@@ -335,6 +335,8 @@
   "owner": "Proprietário",
   "owner_other": "os Proprietários",
   "owns": "Meus",
+  "openPinataWebsite": "Abra o site da Pinata",
+  "offerCanNotAcceptWithBids": "A oferta não pode mais ser aceita porque o leilão tem um lance ativo",
   "pexels": "Pexels",
   "pickSpecificDate": "Escolha uma data específica",
   "pickUpProgressSecondTitle": "Deseja continuar de onde parou ou deseja criar um novo NFT?",
@@ -535,7 +537,5 @@
   "youWillPay": "Você pagará",
   "yourKeysYourNFT": "Suas chaves, seu NFT\nSeu jeito",
   "yourProfileIsVerified": "Seu perfil foi verificado",
-  "youtube": "YouTube",
-  "openPinataWebsite": "Abra o site da Pinata",
-  "offerCanNotAcceptWithBids": "A oferta não pode mais ser aceita porque o leilão tem um lance ativo"
+  "youtube": "YouTube"
 }

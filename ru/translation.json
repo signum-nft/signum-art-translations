@@ -336,6 +336,7 @@
   "owner": "Владелец",
   "owner_other": "Владельцы",
   "owns": "Владеет",
+  "offerCanNotAcceptWithBids": "Предложение больше не может быть принято, так как на аукционе есть активная ставка.",
   "pexels": "пикселей",
   "pickSpecificDate": "Укажите конкретную дату",
   "pickUpProgressSecondTitle": "Вы хотите продолжить с того места, на котором остановились, или хотите создать новый NFT?",
@@ -535,6 +536,5 @@
   "youWillPay": "Вы будете платить",
   "yourKeysYourNFT": "Ваши ключи, ваш NFT\n, ваш путь",
   "yourProfileIsVerified": "Ваш профиль подтвержден",
-  "youtube": "YouTube",
-  "offerCanNotAcceptWithBids": "Предложение больше не может быть принято, так как на аукционе есть активная ставка."
+  "youtube": "YouTube"
 }

@@ -335,6 +335,8 @@
   "owner": "Власник",
   "owner_other": "Власники",
   "owns": "Володіє",
+  "openPinataWebsite": "Відкрийте веб-сайт Pinata",
+  "offerCanNotAcceptWithBids": "Пропозицію більше не можна прийняти, оскільки аукціон має активну ставку",
   "pexels": "Pexels",
   "pickSpecificDate": "Виберіть конкретну дату",
   "pickUpProgressSecondTitle": "Ви хочете продовжити з того місця, де зупинилися, чи хочете створити новий NFT?",
@@ -535,7 +537,5 @@
   "youWillPay": "Ти заплатиш",
   "yourKeysYourNFT": "Ваші ключі, ваш NFT\nТвій шлях",
   "yourProfileIsVerified": "Ваш профіль підтверджено",
-  "youtube": "Youtube",
-  "openPinataWebsite": "Відкрийте веб-сайт Pinata",
-  "offerCanNotAcceptWithBids": "Пропозицію більше не можна прийняти, оскільки аукціон має активну ставку"
+  "youtube": "Youtube"
 }

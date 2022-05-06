@@ -335,6 +335,8 @@
   "owner": "Propietario",
   "owner_other": "Propietarios",
   "owns": "Propio",
+  "openPinataWebsite": "Abrir sitio web de pinata",
+  "offerCanNotAcceptWithBids": "La oferta ya no se puede aceptar porque la subasta tiene una puja activa",
   "pexels": "Pexels",
   "pickSpecificDate": "Elija una fecha específica",
   "pickUpProgressSecondTitle": "¿Quiere continuar donde lo dejó o quiere crear una nueva NFT?",
@@ -535,7 +537,5 @@
   "youWillPay": "Usted pagará",
   "yourKeysYourNFT": "Tus claves, tus NFTs\nA tu manera",
   "yourProfileIsVerified": "Tu perfil está verificado",
-  "youtube": "Youtube",
-  "openPinataWebsite": "Abrir sitio web de pinata",
-  "offerCanNotAcceptWithBids": "La oferta ya no se puede aceptar porque la subasta tiene una puja activa"
+  "youtube": "Youtube"
 }
