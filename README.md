@@ -13,7 +13,7 @@ Just fork this repository, improve the translations and open a PR. We will do th
 Discover the available languages you can make contributions to!
 
 -   `en` English
--   `de` Deutsche
+-   `de` Deutsch
 -   `es` Spanish
 -   `nl` Nederlands
 -   `pt` Português
@@ -26,5 +26,7 @@ Discover the available languages you can make contributions to!
 
 The folders will be named by its ``Language code``.
 If you are going to make contributions to a certain language, make sure to make changes in the proper folder/file
+
+> Please, keep the slugs alphabetically ordered
 
 ### Thank you!
