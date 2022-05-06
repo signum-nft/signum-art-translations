@@ -335,6 +335,8 @@
   "owner": "Proprietario",
   "owner_other": "Proprietari",
   "owns": "Possiede",
+  "openPinataWebsite": "Apri il sito web di Pinata",
+  "offerCanNotAcceptWithBids": "L'offerta non può più essere accettata perché l'asta ha un'offerta attiva",
   "pexels": "Pexel",
   "pickSpecificDate": "Scegli una data specifica",
   "pickUpProgressSecondTitle": "Vuoi continuare da dove eri rimasto o vuoi creare un nuovo NFT?",

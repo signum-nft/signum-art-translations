@@ -335,6 +335,8 @@
   "owner": "เจ้าของ",
   "owner_other": "เจ้าของ",
   "owns": "เป็นเจ้าของ",
+  "openPinataWebsite": "เปิดเว็บไซต์ Pinata",
+  "offerCanNotAcceptWithBids": "ไม่สามารถรับข้อเสนอได้อีกต่อไปเนื่องจากการประมูลมีการเสนอราคาที่ใช้งานอยู่",
   "pexels": "Pexels",
   "pickSpecificDate": "เลือกวันที่ระบุ",
   "pickUpProgressSecondTitle": "คุณต้องการดำเนินการต่อจากจุดที่คุณค้างไว้หรือต้องการสร้าง NFT ใหม่",
