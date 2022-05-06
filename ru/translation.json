@@ -535,5 +535,6 @@
   "youWillPay": "Вы будете платить",
   "yourKeysYourNFT": "Ваши ключи, ваш NFT\n, ваш путь",
   "yourProfileIsVerified": "Ваш профиль подтвержден",
-  "youtube": "YouTube"
+  "youtube": "YouTube",
+  "offerCanNotAcceptWithBids": "Предложение больше не может быть принято, так как на аукционе есть активная ставка."
 }

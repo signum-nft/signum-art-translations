@@ -535,5 +535,7 @@
   "youWillPay": "Usted pagará",
   "yourKeysYourNFT": "Tus claves, tus NFTs\nA tu manera",
   "yourProfileIsVerified": "Tu perfil está verificado",
-  "youtube": "Youtube"
+  "youtube": "Youtube",
+  "openPinataWebsite": "Abrir sitio web de pinata",
+  "offerCanNotAcceptWithBids": "La oferta ya no se puede aceptar porque la subasta tiene una puja activa"
 }

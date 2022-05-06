@@ -535,5 +535,7 @@
   "youWillPay": "Tu pagherai",
   "yourKeysYourNFT": "Le tue chiavi, il tuo NFT\nIl vostro modo",
   "yourProfileIsVerified": "Il tuo profilo è verificato",
-  "youtube": "Youtube"
+  "youtube": "Youtube",
+  "openPinataWebsite": "Apri il sito web di Pinata",
+  "offerCanNotAcceptWithBids": "L'offerta non può più essere accettata perché l'asta ha un'offerta attiva"
 }

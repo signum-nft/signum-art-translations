@@ -321,6 +321,7 @@
   "offerPlacedSuccesfull": "Offer placed successfully!",
   "offerPlacedSuccesfullDescription": "Congrats, This offer will run in an autonomous and trustless way. After your offer funds are sent, the offer with the highest amount may appear in the next blocks confirmations (about 8 minutes). If your offer is not accepted, your offer funds will be refunded.",
   "offer_others": "Offers",
+  "offerCanNotAcceptWithBids": "Offer can't be accepted anymore because auction has an active bid",
   "officialHomePageValidLink": "Please you must input a valid URL for your homepage",
   "officialSocialPlatformsValidLink": "Please you must input a valid URL for your social platforms",
   "officialWeb": "Official Website",
@@ -535,5 +536,6 @@
   "youWillPay": "You will pay",
   "yourKeysYourNFT": "Your Keys, Your NFT\nYour way",
   "yourProfileIsVerified": "Your profile is verified",
-  "youtube": "Youtube"
+  "youtube": "Youtube",
+  "openPinataWebsite": "Open Pinata Website"
 }

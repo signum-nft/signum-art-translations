@@ -535,5 +535,7 @@
   "youWillPay": "คุณจะจ่าย",
   "yourKeysYourNFT": "กุญแจของคุณ NFT ของคุณ\nทางของคุณ",
   "yourProfileIsVerified": "โปรไฟล์ของคุณได้รับการยืนยัน",
-  "youtube": "Youtube"
+  "youtube": "Youtube",
+  "openPinataWebsite": "เปิดเว็บไซต์ Pinata",
+  "offerCanNotAcceptWithBids": "ไม่สามารถรับข้อเสนอได้อีกต่อไปเนื่องจากการประมูลมีการเสนอราคาที่ใช้งานอยู่"
 }

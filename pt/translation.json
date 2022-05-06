@@ -535,5 +535,7 @@
   "youWillPay": "Você pagará",
   "yourKeysYourNFT": "Suas chaves, seu NFT\nSeu jeito",
   "yourProfileIsVerified": "Seu perfil foi verificado",
-  "youtube": "YouTube"
+  "youtube": "YouTube",
+  "openPinataWebsite": "Abra o site da Pinata",
+  "offerCanNotAcceptWithBids": "A oferta não pode mais ser aceita porque o leilão tem um lance ativo"
 }
