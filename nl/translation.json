@@ -210,6 +210,7 @@
   "itemStat": "Groene NFT's",
   "item_other": "artikelen",
   "lastValueSold": "Laatste waarde verkocht",
+  "lastDigitsOfCollection": "Laatste 4 cijfers van de collectie-ID",
   "legal": "legaal",
   "lessAmountFeedback": "Dit veld moet kleiner zijn dan of gelijk zijn aan {{count}}",
   "lessCharactersFeedback": "Dit veld moet minder dan of gelijk aan {{count}} tekens lang zijn",

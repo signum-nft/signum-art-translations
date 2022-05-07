@@ -210,6 +210,7 @@
   "itemStat": "Зелені NFT",
   "item_other": "предметів",
   "lastValueSold": "Остання вартість продана",
+  "lastDigitsOfCollection": "Останні 4 цифри ідентифікатора колекції",
   "legal": "Юридичний",
   "lessAmountFeedback": "Це поле має бути менше або дорівнювати {{count}}",
   "lessCharactersFeedback": "Це поле має містити менше або дорівнювати {{count}} символів",

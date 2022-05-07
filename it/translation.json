@@ -210,6 +210,7 @@
   "itemStat": "NFT verdi",
   "item_other": "Oggetti",
   "lastValueSold": "Ultimo valore venduto",
+  "lastDigitsOfCollection": "Ultimi 4 numeri dell'ID Collezione",
   "legal": "Legale",
   "lessAmountFeedback": "Questo campo deve essere minore o uguale a {{count}}",
   "lessCharactersFeedback": "Questo campo deve avere una lunghezza inferiore o uguale a {{count}} caratteri",

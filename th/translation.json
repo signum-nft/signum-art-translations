@@ -210,6 +210,7 @@
   "itemStat": "NFT สีเขียว",
   "item_other": "รายการ",
   "lastValueSold": "มูลค่าการขายล่าสุด",
+  "lastDigitsOfCollection": "รหัสคอลเลคชัน 4 ตัวท้าย",
   "legal": "ถูกกฎหมาย",
   "lessAmountFeedback": "ฟิลด์นี้ต้องน้อยกว่าหรือเท่ากับ {{count}}",
   "lessCharactersFeedback": "ช่องนี้ต้องมีความยาวน้อยกว่าหรือเท่ากับ {{count}} อักขระ",

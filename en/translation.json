@@ -210,6 +210,7 @@
   "itemStat": "Green NFTs",
   "item_other": "items",
   "lastValueSold": "Last value sold",
+  "lastDigitsOfCollection": "Last 4 numbers of the Collection ID",
   "legal": "Legal",
   "lessAmountFeedback": "This field must be less than or equal to {{count}}",
   "lessCharactersFeedback": "This field must have less than or equal to {{count}} characters long",
