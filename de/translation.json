@@ -208,7 +208,7 @@
   "itemLikedSuccesfullDescription": "Herzlichen Glückwunsch, Dein Like erfolgt innerhalb der nächsten Blockbestätigung (ca. 4 Minuten).",
   "itemSold": "Verkäufe",
   "itemStat": "Grüne NFTs",
-  "item_other": "Produkte",
+  "item_other": "NFTs",
   "lastValueSold": "Letzter Verkaufswert",
   "legal": "Legal",
   "lessAmountFeedback": "Dieses Feld muss kleiner oder gleich {{count}} sein",
