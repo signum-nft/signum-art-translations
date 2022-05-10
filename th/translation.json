@@ -17,6 +17,8 @@
   "areYouSureToLikeThisItemDescription": "เมื่อคุณชอบ NFT นี้ การกระทำนี้จะไม่สามารถย้อนกลับได้เพราะทุกอย่างจะถูกเก็บไว้ใน blockchain",
   "artist": "ศิลปิน",
   "artist_other": "ศิลปิน",
+  "activity": "กิจกรรม",
+  "activity_other": "กิจกรรม",
   "arts": "ศิลปะ",
   "artstation": "ArtStation",
   "artworkTokenizedNotice": "งานศิลปะของคุณจะได้รับแฮช IPFS ที่ไม่ซ้ำกันและ\nNFT จะถูกสร้างเสร็จในห่วงโซ่ Signum",

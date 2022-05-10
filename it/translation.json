@@ -17,6 +17,8 @@
   "areYouSureToLikeThisItemDescription": "Una volta che ti piace questo NFT, questa azione è irreversibile perché tutto sarà archiviato nella blockchain",
   "artist": "Artista",
   "artist_other": "Artisti",
+  "activity": "Attività",
+  "activity_other": "Attività",
   "arts": "Gli artt",
   "artstation": "ArtStation",
   "artworkTokenizedNotice": "Le tue opere d'arte riceveranno hash IPFS unici e\nla NFT sarà coniata sulla catena Signum.",

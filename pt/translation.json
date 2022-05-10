@@ -17,6 +17,8 @@
   "areYouSureToLikeThisItemDescription": "Uma vez que você gosta deste NFT, esta ação é irreversível porque tudo será armazenado no blockchain",
   "artist": "Artista",
   "artist_other": "Artistas",
+  "activity": "Atividade",
+  "activity_other": "Atividades",
   "arts": "Obras de Artes",
   "artstation": "ArtStation",
   "artworkTokenizedNotice": "Suas obras de arte receberão hashes IPFS exclusivos e\no NFT será cunhado na cadeia de blocos Signum.",

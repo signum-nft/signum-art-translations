@@ -17,6 +17,8 @@
   "areYouSureToLikeThisItemDescription": "Una vez que cometa esta acción, esta acción es irreversible porque todo se almacenará en la blockchain.",
   "artist": "Artista",
   "artist_other": "Artistas",
+  "activity": "Actividad",
+  "activity_other": "Actividades",
   "arts": "Artes",
   "artstation": "ArtStation",
   "artworkTokenizedNotice": "Su(s) obra(s) obtendrán hashes IPFS únicos y\nel NFT se creará en la blockchain Signum.",

@@ -17,6 +17,8 @@
   "areYouSureToLikeThisItemDescription": "Once you like this NFT, this action is irreversible because everything will be stored in the blockchain",
   "artist": "Artist",
   "artist_other": "Artists",
+  "activity": "Activity",
+  "activity_other": "Activities",
   "arts": "Arts",
   "artstation": "ArtStation",
   "artworkTokenizedNotice": "Your artwork(s) will get unique IPFS hashes and \nthe NFT will be minted on the Signum chain.",

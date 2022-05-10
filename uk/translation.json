@@ -17,6 +17,8 @@
   "areYouSureToLikeThisItemDescription": "Як тільки вам подобається цей NFT, ця дія незворотна, оскільки все буде зберігатися в блокчейні",
   "artist": "Художник",
   "artist_other": "Художники",
+  "activity": "Діяльність",
+  "activity_other": "Діяльності",
   "arts": "мистецтва",
   "artstation": "ArtStation",
   "artworkTokenizedNotice": "Ваші ілюстрації отримають унікальні хеші IPFS і\nNFT буде карбуватися в мережі Signum.",
