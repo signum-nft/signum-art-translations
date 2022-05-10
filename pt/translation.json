@@ -355,7 +355,7 @@
   "placeBid": "Colocar lance",
   "platformFee": "Taxa de plataforma",
   "pleaseAccept": "Por favor, aceite o",
-  "pleaseInputValidLink": "Por favor, você deve inserir um URL válido",
+  "pleaseInputValidLink": "Por favor, você deve inserir um URL válido. Exemplo: https://internet.com",
   "pressEscToClose": "Pressione a tecla Esc para fechar",
   "previewCollection": "Visualizar a Coleção",
   "previewNewNFT": "Visualizar o seu novo NFT",

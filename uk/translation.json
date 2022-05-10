@@ -355,7 +355,7 @@
   "placeBid": "Розмістіть ставку",
   "platformFee": "Плата за платформу",
   "pleaseAccept": "Будь ласка, прийміть",
-  "pleaseInputValidLink": "Будь ласка, ви повинні ввести дійсну URL-адресу",
+  "pleaseInputValidLink": "Будь ласка, ви повинні ввести дійсну URL-адресу. Приклад: https://internet.com",
   "pressEscToClose": "Натисніть клавішу Esc, щоб закрити",
   "previewCollection": "Колекція попереднього перегляду",
   "previewNewNFT": "Попередній перегляд свого нового NFT",

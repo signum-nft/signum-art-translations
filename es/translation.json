@@ -355,7 +355,7 @@
   "placeBid": "Hacer puja",
   "platformFee": "Tarifa de plataforma",
   "pleaseAccept": "Por favor acepte los",
-  "pleaseInputValidLink": "Por favor, debe ingresar una URL válida",
+  "pleaseInputValidLink": "Por favor, debe ingresar una URL válida. Ejemplo: https://internet.com",
   "pressEscToClose": "Presione la tecla Esc para cerrar",
   "previewCollection": "Vista previa",
   "previewNewNFT": "Obtenga una vista previa de su nuevo NFT",
