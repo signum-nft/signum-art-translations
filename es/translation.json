@@ -557,5 +557,11 @@
   "yourKeysYourNFT": "Tus claves, tus NFTs\nA tu manera",
   "yourProfileIsVerified": "Tu perfil está verificado",
   "youtube": "Youtube",
-  "youWillPay": "Usted pagará"
+  "youWillPay": "Usted pagará",
+  "collectionHighToLow": "Colecciones creadas: de muchas a pocas",
+  "collectionLowToHigh": "Colecciones creadas: de pocas a muchas",
+  "newest": "Más reciente",
+  "nftHighToLow": "NFT creados: muchos a pocos",
+  "nftLowToHigh": "NFT creados: de pocos a muchos",
+  "showAll": "Mostrar todos"
 }
