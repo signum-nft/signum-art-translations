@@ -415,7 +415,7 @@
   "royalty_owner_other": "Propietario de regalías",
   "royaltyEarned_other": "Regalías ganadas",
   "royaltyTransfer": "Transferencia de regalías",
-  "runningSales": "Ventas en funcionamiento",
+  "runningSales": "Venta en funcionamiento",
   "sale": "Venta",
   "saleActivityDescription": "NFT vendido por",
   "sales": "Ventas",
@@ -563,5 +563,11 @@
   "newest": "Más reciente",
   "nftHighToLow": "NFT creados: muchos a pocos",
   "nftLowToHigh": "NFT creados: de pocos a muchos",
-  "showAll": "Mostrar todos"
+  "showAll": "Mostrar todos",
+  "collectionCreated": "Colección creada",
+  "collectionCreated_other": "Colecciones creadas",
+  "mostLikedNfts": "NFTs con más Likes",
+  "nftMinted": "NFT creado",
+  "nftMinted_other": "NFTs creados",
+  "runningSales_other": "Ventas en funcionamiento"
 }
