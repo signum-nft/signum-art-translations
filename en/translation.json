@@ -313,6 +313,7 @@
   "nftName": "Detailed Name of the NFT",
   "nftNotForSaleDescription": "NFT will be minted but not put up for sale.",
   "nftNotice": "The created NFT will appear in your portfolio within the next 8-12 minutes after the data was stored on the Signum chain. Just wait while the Signum chain is doing the work for you!",
+  "nftRecentlySold": "NFTs recently sold",
   "nftRoyaltiesTransferSuccesfull": "NFT royalties transferred successfully!",
   "nftTitle": "Short Name of the NFT",
   "nftTransfer": "NFT Transfer",

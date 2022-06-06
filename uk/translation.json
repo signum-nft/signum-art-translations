@@ -313,6 +313,7 @@
   "nftName": "Детальна назва NFT",
   "nftNotForSaleDescription": "NFT буде карбуватися, але не виставлятися на продаж.",
   "nftNotice": "Створений NFT з’явиться у вашому портфоліо протягом наступних 8-12 хвилин після збереження даних у ланцюжку Signum. Просто зачекайте, поки мережа Signum зробить роботу за вас!",
+  "nftRecentlySold": "NFT нещодавно продані",
   "nftRoyaltiesTransferSuccesfull": "Роялті NFT успішно перераховано!",
   "nftTitle": "Коротка назва NFT",
   "nftTransfer": "Передача NFT",

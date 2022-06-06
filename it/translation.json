@@ -313,6 +313,7 @@
   "nftName": "Nome dettagliato della NFT",
   "nftNotForSaleDescription": "NFT sarà coniato ma non messo in vendita.",
   "nftNotice": "L'NFT creato apparirà nel tuo portafoglio entro i prossimi 8-12 minuti dopo che i dati sono stati archiviati nella catena Signum. Aspetta che la catena Signum faccia il lavoro per te!",
+  "nftRecentlySold": "NFT venduti di recente",
   "nftRoyaltiesTransferSuccesfull": "Royalties NFT trasferite con successo!",
   "nftTitle": "Nome abbreviato della NFT",
   "nftTransfer": "Trasferimento NFT",

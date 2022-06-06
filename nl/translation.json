@@ -313,6 +313,7 @@
   "nftName": "Gedetailleerde naam van de NFT",
   "nftNotForSaleDescription": "NFT wordt geslagen maar niet te koop aangeboden.",
   "nftNotice": "De aangemaakte NFT verschijnt in uw portfolio binnen de volgende 8-12 minuten nadat de gegevens zijn opgeslagen in de Signum-keten. Wacht maar terwijl de Signum-keten het werk voor u doet!",
+  "nftRecentlySold": "NFT's die onlangs zijn verkocht",
   "nftRoyaltiesTransferSuccesfull": "NFT royalty's succesvol overgedragen!",
   "nftTitle": "Korte naam van de NFT",
   "nftTransfer": "NFT-overdracht",

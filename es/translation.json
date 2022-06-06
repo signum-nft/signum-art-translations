@@ -569,5 +569,6 @@
   "mostLikedNfts": "NFTs con más Likes",
   "nftMinted": "NFT creado",
   "nftMinted_other": "NFTs creados",
-  "runningSales_other": "Ventas en funcionamiento"
+  "runningSales_other": "Ventas en funcionamiento",
+  "nftRecentlySold": "NFTs vendidos recientemente"
 }

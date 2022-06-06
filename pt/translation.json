@@ -313,6 +313,7 @@
   "nftName": "Nome detalhado do NFT",
   "nftNotForSaleDescription": "O NFT será cunhado, mas não listada no mercado, apenas o proprietário poderá encontrá-la",
   "nftNotice": "O NFT criado pode aparecer em seu portfólio nos próximos 10 a 20 minutos porque seus dados estão sendo tokenizados no Signum Blockchain. É só esperar enquanto a Smart Contracts faz tudo por você 😀",
+  "nftRecentlySold": "NFTs vendidos recentemente",
   "nftRoyaltiesTransferSuccesfull": "Os royalties da NFT foram transferidos com sucesso!",
   "nftTitle": "Nome abreviado do NFT",
   "nftTransfer": "Transferência NFT",

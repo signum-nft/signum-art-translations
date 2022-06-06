@@ -313,6 +313,7 @@
   "nftName": "ชื่อโดยละเอียดของ NFT",
   "nftNotForSaleDescription": "NFT จะสร้างเสร็จแต่ไม่ได้วางขาย",
   "nftNotice": "NFT ที่สร้างขึ้นจะปรากฏในพอร์ตโฟลิโอของคุณภายใน 8-12 นาทีข้างหน้าหลังจากที่ข้อมูลถูกจัดเก็บไว้ในห่วงโซ่ Signum รอสักครู่ในขณะที่ Signum chain ทำงานให้คุณ!",
+  "nftRecentlySold": "NFTs เพิ่งขายไป",
   "nftRoyaltiesTransferSuccesfull": "โอนค่าลิขสิทธิ์ NFT เรียบร้อยแล้ว!",
   "nftTitle": "ชื่อย่อของ NFT",
   "nftTransfer": "การโอน NFT",
