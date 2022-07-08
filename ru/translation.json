@@ -542,7 +542,7 @@
   "twitter": "Твиттер",
   "twitterUsername": "Имя пользователя в Твиттере",
   "type": "Тип",
-  "typesChoosen": "{{количество}} тип",
+  "typesChoosen": "{{count}} тип",
   "typesChoosen_other": "{{count}} типов",
   "typesLimit": "Разрешено не более {{count}} типов!",
   "ultraRare": "Ультра-редкий",
