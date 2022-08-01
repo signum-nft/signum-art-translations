@@ -397,6 +397,7 @@
   "pinataCloud": "Nuvem Pinata",
   "pinataKey": "Chave Pinata",
   "pinataKeyInputHelper": "Nós nunca possuiremos sua chave de conta Pinata e não podemos fazer upload de seus arquivos sem sua confirmação. Sua chave será armazenada localmente em seu navegador.",
+  "pinataLimitReached": "O plano da sua conta Pinata excedeu o limite do total de arquivos fixados, atualize para um plano melhor",
   "pinataSecretToken": "Token de acesso secreto Pinata",
   "pinataServiceError": "Algo deu errado com o serviço de Pinning. Tente mais tarde",
   "pinterest": "Pinterest",

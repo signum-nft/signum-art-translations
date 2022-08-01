@@ -397,6 +397,7 @@
   "pinataCloud": "Pinata Cloud",
   "pinataKey": "Pinata Key",
   "pinataKeyInputHelper": "We will never own your pinata account key and cannot upload your files without your confirmation. Your key will be stored locally in your browser.",
+  "pinataLimitReached": "Your Pinata account's plan has exceeded the limit of total files pinned, please upgrade to a better plan",
   "pinataSecretToken": "Pinata secret access token",
   "pinataServiceError": "Something went wrong with the Pinning Service. Try again later",
   "pinterest": "Pinterest",

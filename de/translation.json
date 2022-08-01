@@ -397,6 +397,7 @@
   "pinataCloud": "Pinata-Cloud",
   "pinataKey": "Pinata-Key",
   "pinataKeyInputHelper": "Dein Pinata-API-Key wird nicht über das Netzwerk gesendet. Der API-Key wird lokal in deinem Browser gespeichert. Deine Dateien können nicht ohne Deine Bestätigung hochgeladen werden.",
+  "pinataLimitReached": "Der Plan Ihres Pinata-Kontos hat das Limit der Gesamtzahl der angehefteten Dateien überschritten, bitte führen Sie ein Upgrade auf einen besseren Plan durch",
   "pinataSecretToken": "Pinata-API-Token",
   "pinataServiceError": "Etwas ist mit dem Pinning-Service schief gelaufen. Versuche es gleich noch einmal",
   "pinterest": "Pinterest",

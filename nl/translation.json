@@ -397,6 +397,7 @@
   "pinataCloud": "Pinata-wolk",
   "pinataKey": "Pinata-sleutel",
   "pinataKeyInputHelper": "We zullen nooit de eigenaar zijn van uw pinata-accountsleutel en kunnen uw bestanden niet uploaden zonder uw bevestiging. Uw sleutel wordt lokaal in uw browser opgeslagen.",
+  "pinataLimitReached": "Het plan van je Pinata-account heeft de limiet van het totale aantal vastgezette bestanden overschreden. Upgrade naar een beter plan",
   "pinataSecretToken": "Pinata geheime toegangstoken",
   "pinataServiceError": "Er is iets misgegaan met de Pinning Service. Probeer het later opnieuw",
   "pinterest": "Pinterest",

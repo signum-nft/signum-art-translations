@@ -397,6 +397,7 @@
   "pinataCloud": "Pinata Cloud",
   "pinataKey": "Pinata Key",
   "pinataKeyInputHelper": "Nunca seremos propietarios de la clave de su API key de pinata y no podemos cargar sus archivos sin su confirmación. Su API key se almacenará localmente en su navegador.",
+  "pinataLimitReached": "El plan de su cuenta de Piñata ha excedido el límite de archivos totales cargado, actualice a un plan mejor",
   "pinataSecretToken": "Token de acceso secreto de pinata",
   "pinataServiceError": "Algo salió mal con el servicio Pinning. Vuelva a intentarlo más tarde",
   "pinterest": "Pinterest",
